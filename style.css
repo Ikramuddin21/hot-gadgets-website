@@ -1,0 +1,66 @@
+.bg-color{
+    background-color: white;
+}
+a{
+    color: black;
+}
+.buynow:after{
+    content:'\2192';
+}
+p{
+    color: gray;
+}
+.orange{
+    color: orange;
+}
+.heading{
+    font-weight: 700;
+    margin-bottom: 15px;
+    
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-title{
+    text-align: center;
+}
+.buynow-center{
+    text-align: center;
+}
+.laptop-position{
+    padding-top: 5%;
+}
+h2{
+    text-align: center;
+    margin-top: 8%;
+}
+.last-to-first, .last-to-second, .last-to-third{
+    box-shadow: 5px 5px 10px lightgray;
+    height: 200px;
+}
+h6{
+    text-align: center;
+}
+.last-to-first, .last-to-second, .last-to-third img{
+    padding-top: 25px;
+}
+.last-to-second, .last-to-third{
+    padding-bottom: 10px;
+}
+.last-to-first:hover{
+    height: 250px;
+}
+.last-to-second:hover{
+    height: 250px;
+}
+.last-to-third:hover{
+    height: 250px;
+}
+footer{
+    text-align: center;
+    color: gray;
+    padding-top: 10%;
+    padding-bottom: 10px;
+}
