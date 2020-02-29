@@ -35,6 +35,7 @@ p{
 h2{
     text-align: center;
     margin-top: 8%;
+    padding-bottom: 5%;
 }
 .last-to-first, .last-to-second, .last-to-third{
     box-shadow: 5px 5px 10px lightgray;
